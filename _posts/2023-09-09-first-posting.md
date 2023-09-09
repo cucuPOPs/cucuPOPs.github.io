@@ -1,7 +1,9 @@
 ---
 title: "첫글"
-layout: default
-category: test
+category: first
+tag: first
 ---
 
 # Hello world!
+
+헬로월드
