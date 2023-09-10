@@ -1,9 +1,8 @@
 ---
 title: "첫글"
+last_modified_at : "2023-09-10"
 ---
 
 # Hello world!
 
 헬로월드!
-
-업데이트 수정날짜 테스트.
