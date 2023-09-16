@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: temp
+permalink: /categories/temp
 title: "미분류"
 author_profile: true
 sidebar:

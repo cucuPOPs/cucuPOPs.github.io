@@ -4,18 +4,18 @@ docs:
   - title: "devlog"
     children:
       - title: "devlog"
-        url: devlog
+        url: /categories/devlog
         category: "devlog"
   - title: Study
     children:
       - title: "unity"
-        url: unity
+        url: /categories/unity
         category: "unity"
   - title: "etc"
     children:
       - title: "jekyll"
-        url: jekyll
+        url: /categories/jekyll
         category: "jekyll"
       - title: "미분류"
-        url: temp
+        url: /categories/temp
         category: "temp"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: unity
+permalink: /categories/unity
 title: "unity"
 author_profile: true
 sidebar:
